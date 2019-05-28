@@ -20,3 +20,7 @@ For further infrmation see [this](https://www.braincreators.com/2018/06/memory-n
 - a recurrent neural network, inspired by [this code](https://github.com/keras-team/keras/blob/master/examples/babi_rnn.py)
 ![alt tag](http://www.wildml.com/wp-content/uploads/2015/09/rnn.jpg)
 The memn2n and the RNN both have hops, but the memory for memn2n is external while the memory of the RNN is internal.
+
+Results:
+
+![alt tag](https://raw.githubusercontent.com/LegrandT/bAbI_task_comparaison/master/Capture.PNG)
